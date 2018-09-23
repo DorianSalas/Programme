@@ -5,3 +5,4 @@ Le programme de la promo de Carcassonne
 
 ```php
 $isFormationIsOn = true;
+```
